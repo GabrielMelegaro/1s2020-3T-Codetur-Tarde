@@ -1,0 +1,8 @@
+C:\Users\47218167829\source\repos\BackEnd\Senai.Desafio.Solution\Senai.Desafio.Solution\obj\Debug\netcoreapp2.1\Senai.Desafio.Solution.csprojAssemblyReference.cache
+C:\Users\47218167829\source\repos\BackEnd\Senai.Desafio.Solution\Senai.Desafio.Solution\obj\Debug\netcoreapp2.1\Senai.Desafio.Solution.csproj.CoreCompileInputs.cache
+C:\Users\47218167829\source\repos\BackEnd\Senai.Desafio.Solution\Senai.Desafio.Solution\obj\Debug\netcoreapp2.1\Senai.Desafio.Solution.AssemblyInfoInputs.cache
+C:\Users\47218167829\source\repos\BackEnd\Senai.Desafio.Solution\Senai.Desafio.Solution\obj\Debug\netcoreapp2.1\Senai.Desafio.Solution.AssemblyInfo.cs
+C:\Users\47218167829\source\repos\BackEnd\Senai.Desafio.Solution\Senai.Desafio.Solution\bin\Debug\netcoreapp2.1\Senai.Desafio.Solution.deps.json
+C:\Users\47218167829\source\repos\BackEnd\Senai.Desafio.Solution\Senai.Desafio.Solution\bin\Debug\netcoreapp2.1\Senai.Desafio.Solution.dll
+C:\Users\47218167829\source\repos\BackEnd\Senai.Desafio.Solution\Senai.Desafio.Solution\bin\Debug\netcoreapp2.1\Senai.Desafio.Solution.runtimeconfig.json
+C:\Users\47218167829\source\repos\BackEnd\Senai.Desafio.Solution\Senai.Desafio.Solution\bin\Debug\netcoreapp2.1\Senai.Desafio.Solution.runtimeconfig.dev.json
