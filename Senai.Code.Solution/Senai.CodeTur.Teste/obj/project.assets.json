@@ -6925,11 +6925,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\47218167829\\source\\repos\\BackEnd\\Senai.Code.Solution\\Senai.CodeTur.Teste\\Senai.CodeTur.Teste.XUnit.csproj",
+      "projectUniqueName": "C:\\Users\\47218167829\\Desktop\\tarde\\1s2020-3T-Codetur-Tarde\\Senai.Code.Solution\\Senai.CodeTur.Teste\\Senai.CodeTur.Teste.XUnit.csproj",
       "projectName": "Senai.CodeTur.Teste.XUnit",
-      "projectPath": "C:\\Users\\47218167829\\source\\repos\\BackEnd\\Senai.Code.Solution\\Senai.CodeTur.Teste\\Senai.CodeTur.Teste.XUnit.csproj",
+      "projectPath": "C:\\Users\\47218167829\\Desktop\\tarde\\1s2020-3T-Codetur-Tarde\\Senai.Code.Solution\\Senai.CodeTur.Teste\\Senai.CodeTur.Teste.XUnit.csproj",
       "packagesPath": "C:\\Users\\47218167829\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\47218167829\\source\\repos\\BackEnd\\Senai.Code.Solution\\Senai.CodeTur.Teste\\obj\\",
+      "outputPath": "C:\\Users\\47218167829\\Desktop\\tarde\\1s2020-3T-Codetur-Tarde\\Senai.Code.Solution\\Senai.CodeTur.Teste\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6948,8 +6948,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\47218167829\\source\\repos\\BackEnd\\Senai.Code.Solution\\Senai.CodeTur.Infra.Data\\Senai.CodeTur.Infra.Data.csproj": {
-              "projectPath": "C:\\Users\\47218167829\\source\\repos\\BackEnd\\Senai.Code.Solution\\Senai.CodeTur.Infra.Data\\Senai.CodeTur.Infra.Data.csproj"
+            "C:\\Users\\47218167829\\Desktop\\tarde\\1s2020-3T-Codetur-Tarde\\Senai.Code.Solution\\Senai.CodeTur.Infra.Data\\Senai.CodeTur.Infra.Data.csproj": {
+              "projectPath": "C:\\Users\\47218167829\\Desktop\\tarde\\1s2020-3T-Codetur-Tarde\\Senai.Code.Solution\\Senai.CodeTur.Infra.Data\\Senai.CodeTur.Infra.Data.csproj"
             }
           }
         }

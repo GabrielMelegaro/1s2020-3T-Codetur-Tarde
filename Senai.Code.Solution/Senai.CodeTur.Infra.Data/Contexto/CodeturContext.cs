@@ -9,6 +9,7 @@ namespace Senai.CodeTur.Infra.Data.Contexto
     public class CodeturContext : DbContext
     {
         public DbSet<UsuarioDominio> Usuarios { get; set; }
+        public DbSet<PacoteDominio> Pacote { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -24,6 +25,19 @@ namespace Senai.CodeTur.Infra.Data.Contexto
                 Email = "fernando.guerra@sp.senai.br",
                 Senha = "senai132",
                 Tipo = "Administrador"
+            });
+        
+            modelBuilder.Entity<PacoteDominio>().HasData(new PacoteDominio()
+            {
+                Id = 1,
+                Titulo = "Pacote Especial : Texas",
+                País = "EUA",
+                Imagem = "https://a.travel-assets.com/findyours-php/viewfinder/images/res10/332000/332960-Dallas.jpg",
+                Descricao = "O Texas, é uma dos estados mais quentes do Estados Unidos, Terra do Bacon",
+                Status = true,
+                Oferta = true,
+                DataInicio = DateTime.Now.AddDays(-12),
+                DataFim = DateTime.Now.AddDays(-9),
             });
         }
     }

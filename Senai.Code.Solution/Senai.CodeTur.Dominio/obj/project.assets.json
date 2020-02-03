@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\47218167829\\source\\repos\\BackEnd\\Senai.Code.Solution\\Senai.CodeTur.Dominio\\Senai.CodeTur.Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\47218167829\\Desktop\\tarde\\1s2020-3T-Codetur-Tarde\\Senai.Code.Solution\\Senai.CodeTur.Dominio\\Senai.CodeTur.Dominio.csproj",
       "projectName": "Senai.CodeTur.Dominio",
-      "projectPath": "C:\\Users\\47218167829\\source\\repos\\BackEnd\\Senai.Code.Solution\\Senai.CodeTur.Dominio\\Senai.CodeTur.Dominio.csproj",
+      "projectPath": "C:\\Users\\47218167829\\Desktop\\tarde\\1s2020-3T-Codetur-Tarde\\Senai.Code.Solution\\Senai.CodeTur.Dominio\\Senai.CodeTur.Dominio.csproj",
       "packagesPath": "C:\\Users\\47218167829\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\47218167829\\source\\repos\\BackEnd\\Senai.Code.Solution\\Senai.CodeTur.Dominio\\obj\\",
+      "outputPath": "C:\\Users\\47218167829\\Desktop\\tarde\\1s2020-3T-Codetur-Tarde\\Senai.Code.Solution\\Senai.CodeTur.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

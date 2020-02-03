@@ -1,6 +1,4 @@
-﻿using Microsoft.Analytics.Interfaces;
-using Microsoft.Analytics.Types.Sql;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
@@ -30,23 +28,23 @@ namespace Senai.CodeTur.Dominio.Entidades
         public string Descricao { get; set; }
 
         [Required]
-        [Column(TypeName = "Date")]
-        public DataType DataInicio { get; set; }
+        [DataType(DataType.Date)]
+        public DateTime DataInicio { get; set; }
 
         [Required]
-        [Column(TypeName = "Date")]
-        public DataType DataFim { get; set; }
+        [DataType(DataType.Date)]
+        public DateTime DataFim { get; set; }
 
         [Required]
         [Column("País", TypeName = "varchar(150)")]
         public string País { get; set; }
 
         [Required]
-        [Column("Ativo", TypeName = "varchar(150)")]
-        public bool Ativo { get; set; }
+        [Column("Status", TypeName = "bit")]
+        public bool Status { get; set; }
 
         [Required]
-        [Column("Oferta", TypeName = "varchar(150)")]
+        [Column("Oferta", TypeName = "bit")]
         public bool Oferta { get; set; }
     }
 }
