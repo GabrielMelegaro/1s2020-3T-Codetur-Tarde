@@ -33,7 +33,7 @@ namespace Senai.CodeTur.Infra.Data.Contexto
                 Titulo = "Pacote Especial : Texas",
                 País = "EUA",
                 Imagem = "https://a.travel-assets.com/findyours-php/viewfinder/images/res10/332000/332960-Dallas.jpg",
-                Descricao = "O Texas, é uma dos estados mais quentes do Estados Unidos, Terra do Bacon",
+                Descricao = "O Texas, é uma dos estados bmais quentes do Estados Unidos, Terra do Bacon",
                 Status = true,
                 Oferta = true,
                 DataInicio = DateTime.Now.AddDays(-12),
