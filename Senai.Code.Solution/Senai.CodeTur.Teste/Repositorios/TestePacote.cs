@@ -20,9 +20,9 @@ namespace Senai.CodeTur.Teste.XUnit.Repositorios
             //.Options;
 
             // Use a clean instance of the context to run the test
-            using (CodeturContext ctx = new CodeturContext())
+            using (CodeturContext ctx  = new CodeturContext())
             {
-                var repositorio = new PacotesRepositorio(ctx);
+                var repositorio = new PacotesRepositorio();
                 var resultado = repositorio.BuscarPorId(1);
                 Assert.NotNull(resultado);
             }
@@ -52,7 +52,7 @@ namespace Senai.CodeTur.Teste.XUnit.Repositorios
             // Use a clean instance of the context to run the test
             using (CodeturContext ctx = new CodeturContext())
             {
-                var service = new PacotesRepositorio(ctx);
+                var service = new PacotesRepositorio();
                 var result = service.Cadastrar(pacote);
                 Assert.NotNull(result);
                 Assert.Equal("Pacote Especial : Texas", result.Titulo);
@@ -61,7 +61,7 @@ namespace Senai.CodeTur.Teste.XUnit.Repositorios
         }
 
         [Fact]
-        public void listar ()
+        public void BuscarPacotePorIdExisteTeste()
         {
 
             //var options = new DbContextOptionsBuilder<CodeturContext>()
@@ -84,7 +84,7 @@ namespace Senai.CodeTur.Teste.XUnit.Repositorios
             // Use a clean instance of the context to run the test
             using (CodeturContext ctx = new CodeturContext())
             {
-                var repositorio = new PacotesRepositorio(ctx);
+                var repositorio = new PacotesRepositorio();
 
                 repositorio.Cadastrar(pacote);
 

@@ -22,9 +22,16 @@ C:\Users\47218167829\Desktop\tarde\1s2020-3T-Codetur-Tarde\Senai.Code.Solution\S
 C:\Users\47218167829\Desktop\tarde\1s2020-3T-Codetur-Tarde\Senai.Code.Solution\Senai.CodeTur.Apresentaçao\obj\Debug\netcoreapp2.1\Senai.CodeTur.Apresentaçao.csproj.CoreCompileInputs.cache
 C:\Users\47218167829\Desktop\tarde\1s2020-3T-Codetur-Tarde\Senai.Code.Solution\Senai.CodeTur.Apresentaçao\obj\Debug\netcoreapp2.1\Senai.CodeTur.Apresentaçao.RazorAssemblyInfo.cache
 C:\Users\47218167829\Desktop\tarde\1s2020-3T-Codetur-Tarde\Senai.Code.Solution\Senai.CodeTur.Apresentaçao\obj\Debug\netcoreapp2.1\Senai.CodeTur.Apresentaçao.RazorAssemblyInfo.cs
-C:\Users\47218167829\Desktop\tarde\1s2020-3T-Codetur-Tarde\Senai.Code.Solution\Senai.CodeTur.Apresentaçao\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
 C:\Users\47218167829\Desktop\tarde\1s2020-3T-Codetur-Tarde\Senai.Code.Solution\Senai.CodeTur.Apresentaçao\obj\Debug\netcoreapp2.1\Senai.CodeTur.Apresentaçao.AssemblyInfoInputs.cache
 C:\Users\47218167829\Desktop\tarde\1s2020-3T-Codetur-Tarde\Senai.Code.Solution\Senai.CodeTur.Apresentaçao\obj\Debug\netcoreapp2.1\Senai.CodeTur.Apresentaçao.AssemblyInfo.cs
 C:\Users\47218167829\Desktop\tarde\1s2020-3T-Codetur-Tarde\Senai.Code.Solution\Senai.CodeTur.Apresentaçao\obj\Debug\netcoreapp2.1\Senai.CodeTur.Apresentaçao.RazorTargetAssemblyInfo.cache
 C:\Users\47218167829\Desktop\tarde\1s2020-3T-Codetur-Tarde\Senai.Code.Solution\Senai.CodeTur.Apresentaçao\obj\Debug\netcoreapp2.1\Senai.CodeTur.Apresentaçao.dll
 C:\Users\47218167829\Desktop\tarde\1s2020-3T-Codetur-Tarde\Senai.Code.Solution\Senai.CodeTur.Apresentaçao\obj\Debug\netcoreapp2.1\Senai.CodeTur.Apresentaçao.pdb
+C:\Users\47218167829\Desktop\tarde\1s2020-3T-Codetur-Tarde\Senai.Code.Solution\Senai.CodeTur.Apresentaçao\bin\Debug\netcoreapp2.1\Senai.CodeTur.Dominio.dll
+C:\Users\47218167829\Desktop\tarde\1s2020-3T-Codetur-Tarde\Senai.Code.Solution\Senai.CodeTur.Apresentaçao\bin\Debug\netcoreapp2.1\Senai.CodeTur.Infra.Data.dll
+C:\Users\47218167829\Desktop\tarde\1s2020-3T-Codetur-Tarde\Senai.Code.Solution\Senai.CodeTur.Apresentaçao\bin\Debug\netcoreapp2.1\Senai.CodeTur.Dominio.pdb
+C:\Users\47218167829\Desktop\tarde\1s2020-3T-Codetur-Tarde\Senai.Code.Solution\Senai.CodeTur.Apresentaçao\bin\Debug\netcoreapp2.1\Senai.CodeTur.Infra.Data.pdb
+C:\Users\47218167829\Desktop\tarde\1s2020-3T-Codetur-Tarde\Senai.Code.Solution\Senai.CodeTur.Apresentaçao\obj\Debug\netcoreapp2.1\Senai.CodeTur.Apresentaçao.csproj.CopyComplete
+C:\Users\47218167829\Desktop\tarde\1s2020-3T-Codetur-Tarde\Senai.Code.Solution\Senai.CodeTur.Apresentaçao\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\47218167829\Desktop\tarde\1s2020-3T-Codetur-Tarde\Senai.Code.Solution\Senai.CodeTur.Apresentaçao\bin\Debug\netcoreapp2.1\Senai.CodeTur.Servico.dll
+C:\Users\47218167829\Desktop\tarde\1s2020-3T-Codetur-Tarde\Senai.Code.Solution\Senai.CodeTur.Apresentaçao\bin\Debug\netcoreapp2.1\Senai.CodeTur.Servico.pdb

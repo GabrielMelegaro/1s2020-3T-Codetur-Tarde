@@ -11,12 +11,12 @@ namespace Senai.CodeTur.Infra.Data.Repositorio
 {
     public class PacotesRepositorio : IPacoteRepositorio
     {
-        private CodeturContext _ctx;
+        //private CodeturContext _ctx;
 
-        public PacotesRepositorio(CodeturContext ctx)
-        {
-            _ctx = ctx;
-        }
+        //public PacotesRepositorio(CodeturContext ctx)
+        //{
+           // _ctx = ctx;
+        //}
 
         public PacoteDominio Cadastrar(PacoteDominio pacote)
         {
